@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Interpreter.java" package="" timestamp="06-May-2015 13:40:41">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="AttInfo.java" package="" timestamp="02-Apr-2015 14:50:55">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="CatalogReader.java" package="" timestamp="02-Apr-2015 14:51:54">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="SQLLexer.java" package="" timestamp="03-May-2015 15:56:39">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="SQLParser.java" package="" timestamp="03-May-2015 15:56:39">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Runner.java" package="" timestamp="19-Apr-2015 00:49:57">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Grouping.java" package="" timestamp="19-Apr-2015 00:49:57">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Join.java" package="" timestamp="19-Apr-2015 00:49:57">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Selection.java" package="" timestamp="19-Apr-2015 00:49:57">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="AggFunc.java" package="" timestamp="19-Apr-2015 00:49:57">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Entry.java" package="" timestamp="06-May-2015 03:27:17">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="TableData.java" package="" timestamp="06-May-2015 11:25:56">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Attribute.java" package="" timestamp="19-Apr-2015 00:49:57">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="Expression.java" package="" timestamp="06-May-2015 13:29:30">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+      <file name="RelationAlgebra.java" package="" timestamp="06-May-2015 13:41:49">
+        <select from="3107" to="3107"/>
+        <scroll column="914" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="antlr-3.5.2-complete-no-st3.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

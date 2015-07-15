@@ -1,0 +1,1 @@
+return true && ccccccc_l_returnflag == aggMe.l_returnflag;

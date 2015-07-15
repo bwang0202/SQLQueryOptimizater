@@ -1,0 +1,11 @@
+aggMe.ccccccc_l_returnflag = l_returnflag;
+aggMe.gpOut1 = (Str("return flag was ") + l_returnflag);
+aggMe.gpOut2 = aggMe.gpOut2 + l_quantity;
+aggMe.gpOut3 = aggMe.gpOut3 + l_extendedprice;
+aggMe.gpOut4 = aggMe.gpOut4 + (l_extendedprice * (Float(1) - l_discount));
+aggMe.gpOut5 = aggMe.gpOut5 + ((l_extendedprice * (Float(1) - l_discount)) * (Float(1) + l_tax));
+aggMe.gpOut6 = aggMe.gpOut6 + l_quantity;
+aggMe.gpOut7 = aggMe.gpOut7 + l_extendedprice;
+aggMe.gpOut8 = aggMe.gpOut8 + l_discount;
+aggMe.gpOut9 = aggMe.gpOut9 + Float(1);
+aggMe.ccccccc_count = aggMe.ccccccc_count + Int (1);

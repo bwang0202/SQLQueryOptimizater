@@ -1,0 +1,11 @@
+Str ccccccc_l_returnflag;
+Str gpOut1;
+Float gpOut2;
+Float gpOut3;
+Float gpOut4;
+Float gpOut5;
+Float gpOut6;
+Float gpOut7;
+Float gpOut8;
+Float gpOut9;
+Int ccccccc_count;
